@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: caaa2d903ced0f14d9eb59f76ad9ba99
+timeCreated: 1498564249
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ClementePDar
+  fontNames:
+  - ClementePDar
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

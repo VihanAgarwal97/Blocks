@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: df3aeeaaf8b71804799473cc2900f3bf
+timeCreated: 1498564250
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ClementePDal
+  fontNames:
+  - ClementePDal
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

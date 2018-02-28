@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 78a63388deb6b0e418d27ff702a7a875
+timeCreated: 1498564249
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ClementePDap
+  fontNames:
+  - ClementePDap
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

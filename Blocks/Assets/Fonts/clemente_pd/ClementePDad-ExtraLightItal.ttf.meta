@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 245cca981f73d3b4fa765f4b44640c47
+timeCreated: 1498564248
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ClementePDad
+  fontNames:
+  - ClementePDad
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

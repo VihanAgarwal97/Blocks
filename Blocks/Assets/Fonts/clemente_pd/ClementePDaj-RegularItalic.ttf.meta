@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6cb1e618e08857842b3c4cd20d64931c
+timeCreated: 1498564249
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ClementePDaj
+  fontNames:
+  - ClementePDaj
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

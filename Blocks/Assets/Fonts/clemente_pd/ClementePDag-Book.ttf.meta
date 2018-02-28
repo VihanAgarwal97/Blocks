@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cbef62aacb25aa8448bad9226a7c8d27
+timeCreated: 1498564250
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ClementePDag
+  fontNames:
+  - ClementePDag
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
